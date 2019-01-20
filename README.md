@@ -8,7 +8,10 @@ This is example is to show different parts of the GIt repository and various com
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated abover, the main purpose is to provide simple exaple  for the Git demos
+
+## Deployment
+Again, more guff to demo.
 
 ### Conclusion
 Finish
